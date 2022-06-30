@@ -10,8 +10,9 @@ This means this repository is the part that is on a users' computer. Here is the
 ## The client tech stack
 <!-- finish listing tech stack, then describe briefly what they are for -->
 
-1. [Tauri](https://tauri.studio/) - Tauri is like electron, but for web. <!-- that was suggested by copilot, so i'm keeping it. -->
+1. [Tauri](https://tauri.studio/) - Tauri is like electron, but rusty
 2. [SvelteKit](https://kit.svelte.dev) - Kit is mostly for routing, Svelte is for the magic
+3. [SuperTokens](https://github.com/supertokens/supertokens-website) - For user auth
 
 ### dev dependencies
 <!-- todo: list dev dependencies -->
