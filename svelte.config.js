@@ -10,8 +10,8 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		files: {
-			hooks: "./src/hooks.js",
-			lib: "./src/lib"
+			hooks: './src/hooks.js',
+			lib: './src/lib'
 		}
 	}
 };
